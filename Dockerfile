@@ -1,5 +1,4 @@
 FROM scolagreco/alpine-jdk:v3.12.1-jdk1.8.0_201
-FROM scolagreco/alpine-jdk
 MAINTAINER Stefano Colagreco <stefano@colagreco.it>
 
 VOLUME /tmp
