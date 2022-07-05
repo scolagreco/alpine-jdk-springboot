@@ -1,3 +1,9 @@
+[![](https://images.microbadger.com/badges/image/scolagreco/alpine-jdk-springboot.svg)](https://microbadger.com/images/scolagreco/alpine-jdk-springboot)
+[![](https://images.microbadger.com/badges/commit/scolagreco/alpine-jdk-springboot.svg)](https://microbadger.com/images/scolagreco/alpine-jdk-springboot)
+
+[![Docker Stars](https://img.shields.io/docker/stars/scolagreco/alpine-jdk-springboot.svg)](https://hub.docker.com/r/scolagreco/alpine-jdk-springboot/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/scolagreco/alpine-jdk-springboot.svg)](https://hub.docker.com/r/scolagreco/alpine-jdk-springboot/)
+
 # Docker Alpine Linux + JDK (Oracle) for running Spring Boot App
 
 Repository con il dockerfile per creare una Docker Image per eseguire app Spring Boot.
